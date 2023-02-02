@@ -1,1 +1,2 @@
-# Office_Employee_Management_System_Django
+# ofc-emp-management-system
+Python-Django project tutorial from the scratch
